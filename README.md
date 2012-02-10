@@ -1,5 +1,8 @@
 * This should be the root of a git repository but i dunno how to handle submodule
 
+#on the way
+* DomElement support (instead of window base support)
+
 # TODO
 * document those
   * you write a lot of code but not a lot of doc
