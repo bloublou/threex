@@ -3,6 +3,7 @@
 #on the way
 * DomElement support (instead of window base support)
 * DomElement : if mouseOut of canvas : stop using mouse events
+* DomElement/ToolTip : add tooltip class to allow a tooltip to come over an object when mouseover
 
 # TODO
 * document those
