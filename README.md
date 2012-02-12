@@ -2,6 +2,7 @@
 
 #on the way
 * DomElement support (instead of window base support)
+* DomElement : if mouseOut of canvas : stop using mouse events
 
 # TODO
 * document those
